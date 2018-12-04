@@ -1,0 +1,43 @@
+body {
+    background-color: #777777;
+    width: 960px;
+    font-size: 18px;
+    text-align: center;
+}
+
+h1 {
+    color: #777777;
+    background: #ebebeb;
+    text-align: center;
+}
+
+ul {
+    color: #777777;
+    background: #ebebeb;
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 10px 10px 10px 10px;
+}
+
+.col-container {
+    display: flex;
+    width: 100%;
+  }
+  .col {
+    flex: 1;
+    color: #777777;
+    background: #ebebeb;
+    text-align: center;
+    border: 10px solid #777777;
+    padding: 10px;
+    margin: 10px;
+  }
+
+footer { 
+    color: #777777;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+    background: #ebebeb;
+    display: block;
+}
