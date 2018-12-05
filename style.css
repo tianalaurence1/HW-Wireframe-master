@@ -45,6 +45,15 @@ ul {
     padding: 5px;
     margin: 5px;
 }
+.test {
+    color: #777777;
+    background: #ebebeb;
+    list-style-type: none;
+    text-align: center;
+    height: 50px;
+    padding: 15px;
+    margin: 15px;   
+}
 
 .col-container {
     display: flex;
